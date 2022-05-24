@@ -1,0 +1,21 @@
+.page-header {
+  background-color: #1b76f1;
+}
+
+
+nz-header {
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+.page-header {
+  background: linear-gradient(toleft, #9fc6e2,#ffffff) !important;
+}
+nz-layout {
+  margin-bottom: 48px;
+}
+
+nz-layout nz-layout,
+nz-layout:last-child {
+  margin: 0;
+}
